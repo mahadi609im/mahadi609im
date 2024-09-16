@@ -4,8 +4,7 @@
 
 
 
-##### 🧑‍💻 About Me
-<span width='100px' border='1px solid tomato'> </span>
+#### 🧑‍💻 About Me
 "Hello! I'm Mahadi, an enthusiastic web developer passionate about creating interactive and user-friendly websites. With a strong background in HTML, CSS, JavaScript, and Python, I specialize in both front-end and back-end development. My current focus is on mastering React.js and Django to build dynamic and responsive web projects. I believe in continuous learning and am always eager to explore new technologies.
 
 My goal is not only to gain technical skills but also to uncover new horizons in the web world through creative thinking and innovative solutions. I am always ready to take on new challenges and work alongside like-minded professionals."
