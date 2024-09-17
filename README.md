@@ -25,7 +25,7 @@ Skills: HTML, CSS, Tailwind CSS, JavaScript, React JS, Python, Django
 
 - 🔭 I’m currently working on VAPC 
 - 🌱 I’m currently learning React JS & Django 
-- 💬 Ask me about Web design and development [my skilss]
+- 💬 Ask me about Web design and development [my skills]
 
 
 
