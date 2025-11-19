@@ -49,10 +49,10 @@
 |--------------|--------------------|-----------------|
 | <a href="https://github.com/mahadi609im/hero-apps-io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=hero-apps-io&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Customer-support-zone-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Customer-support-zone-react&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Payoo-MFS-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Payoo-MFS-project&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> |
 
-| B12 A5 Emergency Hotline | Green Earth React | - |
+| B12 A5 Emergency Hotline | Green Earth React | Gadget-Heaven|
 |-------------------------|-----------------|---|
-| <a href="https://github.com/mahadi609im/B12-A5-Emergency-Hotline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=B12-A5-Emergency-Hotline&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Green-Earth-React"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Green-Earth-React&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | - |
-
+| <a href="https://github.com/mahadi609im/B12-A5-Emergency-Hotline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=B12-A5-Emergency-Hotline&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Green-Earth-React"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Green-Earth-React&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Gadget-Heaven"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Gadget-Heaven&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> |
+ 
 ---
 <!--- github stats --->
 ## 📊 GitHub Stats
@@ -72,9 +72,19 @@
 ---
 
 ## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahadi609im)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
+
+<p align="left">
+  <a href="https://github.com/mahadi609im" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mahadi609im/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 
 ---
 
