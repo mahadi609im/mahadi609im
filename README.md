@@ -1,32 +1,66 @@
-## Hi there 👋, I'm Mahadi
-#### Web Designer and Developer "Passionate about creating beautiful and functional web experiences using modern technologies." 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=180&section=header&text=Md+Mahadi&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=D8BFD8&center=true&vCenter=true&width=500&lines=Assalamu%20Alaikum+%F0%9F%91%8B;I'm+Mahadi+Hasan+Milon;Learning+%26+Building+Frontend,+Backend+%26+Other+Packages+with+MERN+Stack;Nice+To+Meet+You+%F0%9F%A5%B0" alt="Typing SVG">
+</p>
 
+---
 
+## 💻 About Me
+- Aspiring MERN Stack Developer  
+- Learning & Building Frontend, Backend & other packages with MERN Stack  
+- Exploring modern web technologies & best practices  
 
+---
 
-#### 🧑‍💻 About Me
-"Hello! I'm Mahadi, an enthusiastic web developer passionate about creating interactive and user-friendly websites. With a strong background in HTML, CSS, JavaScript, and Python, I specialize in both front-end and back-end development. My current focus is on mastering React.js and Django to build dynamic and responsive web projects. I believe in continuous learning and am always eager to explore new technologies.
+## 🚀 Skills Overview
 
-My goal is not only to gain technical skills but also to uncover new horizons in the web world through creative thinking and innovative solutions. I am always ready to take on new challenges and work alongside like-minded professionals."
+| **Category**              | **Technologies** |
+|---------------------------|------------------|
+| **Languages**             | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white) |
+| **Back-End Development**  | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) |
+| **Database**              | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **AI Tools**              | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75FF?style=flat&logo=google&logoColor=white) ![Grok](https://img.shields.io/badge/-Grok-000000?style=flat&logo=x&logoColor=white) ![DeepSeek](https://img.shields.io/badge/-DeepSeek-FF4D4D?style=flat&logo=target&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-111111?style=flat&logo=anthropic&logoColor=white) |
+| **Tools & Platforms**     | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![JWT](https://img.shields.io/badge/-JWT-323330?style=flat&logo=json-web-token&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-F76935?style=flat&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Pixso](https://img.shields.io/badge/-Pixso-7000FF?style=flat&logo=pixso&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat) ![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) |
+| **Deployment**            | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![Surge](https://img.shields.io/badge/-Surge-1F1F1F?style=flat&logo=surge&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
-Skills: HTML, CSS, Tailwind CSS, JavaScript, React JS, Python, Django
+---
 
+## 📌 Pinned Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi609im)](https://github.com/anuraghazra/github-readme-stats)
+| pawMart | EndGame | React Summer Sell |
+|---------|---------|------------------|
+| <a href="https://github.com/mahadi609im/pawMart-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=pawMart-client&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/EndGame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=EndGame&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/react-smmer-sell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=react-smmer-sell&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadi609im&show_icons=true)  
+| Hero Apps IO | Customer Support Zone | Payoo MFS Project |
+|--------------|--------------------|-----------------|
+| <a href="https://github.com/mahadi609im/hero-apps-io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=hero-apps-io&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Customer-support-zone-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Customer-support-zone-react&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Payoo-MFS-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Payoo-MFS-project&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> |
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mahadi609im/contributions?format=svg&private=false)  
+| B12 A5 Emergency Hotline | Green Earth React | - |
+|-------------------------|-----------------|---|
+| <a href="https://github.com/mahadi609im/B12-A5-Emergency-Hotline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=B12-A5-Emergency-Hotline&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Green-Earth-React"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Green-Earth-React&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | - |
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mahadi609im)  
+---
 
+## 📊 Stats
 
+![Mahadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadi609im&show_icons=true&theme=dark&hide_border=false)
 
+---
 
-- 🔭 I’m currently working on VAPC 
-- 🌱 I’m currently learning React JS & Django 
-- 💬 Ask me about Web design and development [my skills]
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahadi609im)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
 
+---
 
+## 📝 Current Focus
+- MERN Stack Development  
+- React.js, Node.js, Express.js, MongoDB  
+- REST API & JWT Authentication  
+- Modern UI/UX with Tailwind CSS & Material-UI  
 
+---
 
+> "Learning, Building, and Growing one project at a time 🚀"
