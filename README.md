@@ -1,7 +1,10 @@
 <img align="right" alt="Coding" src="cover.jpeg"/>
 
-
 ---
+<br>
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=D8BFD8&center=true&vCenter=true&width=900&lines=Assalamu%20Alaikum+%F0%9F%91%8B;I'm+Mahadi+Hasan+Milon;Learning+Building+Growing+as+a+MERN+Developer;Nice+To+Meet+You+%F0%9F%A5%B0" alt="Typing SVG">
+</p>
 
 ## 💻 About Me
 - Aspiring MERN Stack Developer  
@@ -39,10 +42,12 @@
 | <a href="https://github.com/mahadi609im/B12-A5-Emergency-Hotline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=B12-A5-Emergency-Hotline&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Green-Earth-React"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Green-Earth-React&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | - |
 
 ---
+<!--- github stats --->
+## 📊 GitHub Stats
 
-## 📊 Stats
-
-![Mahadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadi609im&show_icons=true&theme=dark&hide_border=false)
+| GitHub Stats | Streak Stats | Top Languages |
+|--------------|--------------|----------------|
+| ![](https://github-readme-stats.vercel.app/api?username=rashel-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=rashel-dev&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashel-dev&theme=dark&hide_border=false&layout=compact) |
 
 ---
 
@@ -57,7 +62,7 @@
 - MERN Stack Development  
 - React.js, Node.js, Express.js, MongoDB  
 - REST API & JWT Authentication  
-- Modern UI/UX with Tailwind CSS & Material-UI  
+- Modern UI/UX with Tailwind CSS & Other React Packages
 
 ---
 
