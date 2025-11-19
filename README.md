@@ -1,7 +1,5 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=180&section=header&text=Md+Mahadi&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=D8BFD8&center=true&vCenter=true&width=500&lines=Assalamu%20Alaikum+%F0%9F%91%8B;I'm+Mahadi+Hasan+Milon;Learning+%26+Building+Frontend,+Backend+%26+Other+Packages+with+MERN+Stack;Nice+To+Meet+You+%F0%9F%A5%B0" alt="Typing SVG">
-</p>
+<img align="right" alt="Coding" src="cover.jpeg"/>
+
 
 ---
 
