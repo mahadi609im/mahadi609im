@@ -1,15 +1,27 @@
 <img align="right" alt="Coding" src="cover.jpeg"/>
 
 ---
-<br>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=D8BFD8&center=true&vCenter=true&width=900&lines=Assalamu%20Alaikum+%F0%9F%91%8B;I'm+Mahadi+Hasan+Milon;Learning+Building+Growing+as+a+MERN+Developer;Nice+To+Meet+You+%F0%9F%A5%B0" alt="Typing SVG">
+
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=D8BFD8&center=true&vCenter=true&width=1000&lines=Assalamu%20Alaikum+%F0%9F%91%8B;I'm+Mahadi+Hasan+Milon;Learning+Building+Growing+as+a+MERN+Developer;Nice+To+Meet+You+%F0%9F%A5%B0" 
+  alt="Typing SVG"
+/>
+
 </p>
 
-## 💻 About Me
-- Aspiring MERN Stack Developer  
-- Learning & Building Frontend, Backend & other packages with MERN Stack  
-- Exploring modern web technologies & best practices  
+
+
+<img align="right" alt="Coding" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+### 🧐 About Me
+
+- 🔭 &nbsp; Passionate about **learning and building web applications** using the MERN Stack, including frontend, backend, and essential packages.  
+- 🌱 &nbsp; Continuously exploring **modern web technologies, best practices, and innovative solutions**.  
+- 👨🏻‍💻 &nbsp; Most of my projects and experiments can be found on my [GitHub](https://github.com/mahadi609im?tab=repositories).  
+- 💬 &nbsp; Always happy to **collaborate or share knowledge** on web development, coding, and tech.  
+- 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/mahadi609im/) or via messages for any tech-related discussions.  
+- 📝 &nbsp; In my free time, I **explore coding tutorials, MERN projects, challenges, and modern UI/UX trends**.
 
 ---
 
@@ -51,18 +63,18 @@
 
 ---
 
-## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahadi609im)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-
----
-
 ## 📝 Current Focus
 - MERN Stack Development  
 - React.js, Node.js, Express.js, MongoDB  
 - REST API & JWT Authentication  
 - Modern UI/UX with Tailwind CSS & Other React Packages
+
+---
+
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahadi609im)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
 
 ---
 
