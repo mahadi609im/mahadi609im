@@ -10,10 +10,6 @@
 
 </p>
 
-
-
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
 ### 🧐 About Me
 
 - 🔭 &nbsp; Passionate about **learning and building web applications** using the MERN Stack, including frontend, backend, and essential packages.  
@@ -39,7 +35,7 @@
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Top Projects
 
 | pawMart | EndGame | React Summer Sell |
 |---------|---------|------------------|
@@ -54,6 +50,16 @@
 | <a href="https://github.com/mahadi609im/B12-A5-Emergency-Hotline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=B12-A5-Emergency-Hotline&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Green-Earth-React"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Green-Earth-React&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Gadget-Heaven"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Gadget-Heaven&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> |
  
 ---
+## 📌 Pinned Repositories
+
+| Repository | Description |
+|-----------|-------------|
+| <a href="https://github.com/mahadi609im/pawMart-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=pawMart-client&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | **pawMart Client** – A modern pet shop application with smooth UI/UX, authentication, product management, and cart system.<br/>**Live:** https://paw-mart-12.netlify.app/<br/>**Tech:** React, Tailwind, MongoDB, Express, JWT |
+| <a href="https://github.com/mahadi609im/EndGame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=EndGame&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | **EndGame** – E-learning style project with dynamic user system, protected content, and responsive UI.<br/>**Live:** https://endgame-learning.web.app/<br/>**Tech:** React, Firebase Auth, Node.js, Express |
+| <a href="https://github.com/mahadi609im/hero-apps-io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=hero-apps-io&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | **Hero Apps IO** – App showcase platform with category filtering, dynamic details page, and interactive UI.<br/>**Live:** https://hero-app-io.netlify.app/<br/>**Tech:** React, Tailwind, JSON Server |
+
+---
+
 <!--- github stats --->
 ## 📊 GitHub Stats
 
