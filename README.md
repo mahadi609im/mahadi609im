@@ -70,7 +70,8 @@
 ---
 
 ## 📝 Current Focus
-- MERN Stack Development  
+- MERN Stack Development
+- Exploring Next Js
 - React.js, Node.js, Express.js, MongoDB  
 - REST API & JWT Authentication  
 - Modern UI/UX with Tailwind CSS & Other React Packages
