@@ -17,7 +17,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects and experiments can be found on my [GitHub](https://github.com/mahadi609im?tab=repositories).  
 - 💬 &nbsp; Always happy to **collaborate or share knowledge** on web development, coding, and tech.  
 - 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/mahadi609im/) or via messages for any tech-related discussions.  
-- 📝 &nbsp; In my free time, I **explore coding tutorials, MERN projects, challenges, and modern UI/UX trends**.
+- 📝 &nbsp; In my free time, I **focus on understanding the full JavaScript ecosystem—experimenting with MERN stack projects, improving problem-solving through challenges, and learning modern UI/UX patterns.**.
 
 ---
 
