@@ -12,6 +12,7 @@
 
 ### 🧐 About Me
 
+- 🌐 Passionate about building modern, scalable web applications. Check out my portfolio: **https://mahadi609im.pages.dev/**
 - 🔭 &nbsp; Passionate about **learning and building web applications** using the MERN Stack, including frontend, backend, and essential packages.  
 - 🌱 &nbsp; Continuously exploring **modern web technologies, best practices, and innovative solutions**.  
 - 👨🏻‍💻 &nbsp; Most of my projects and experiments can be found on my [GitHub](https://github.com/mahadi609im?tab=repositories).  
