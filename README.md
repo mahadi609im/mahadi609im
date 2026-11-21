@@ -34,23 +34,6 @@
 | **Tools & Platforms**     | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![JWT](https://img.shields.io/badge/-JWT-323330?style=flat&logo=json-web-token&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-F76935?style=flat&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Pixso](https://img.shields.io/badge/-Pixso-7000FF?style=flat&logo=pixso&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat) ![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) |
 | **Deployment**            | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![Surge](https://img.shields.io/badge/-Surge-1F1F1F?style=flat&logo=surge&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
----
-
-## 📌 Top Projects
-
-| pawMart | EndGame | React Summer Sell |
-|---------|---------|------------------|
-| <a href="https://github.com/mahadi609im/pawMart-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=pawMart-client&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/EndGame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=EndGame&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/react-smmer-sell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=react-smmer-sell&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> |
-
-| Hero Apps IO | Customer Support Zone | Payoo MFS Project |
-|--------------|--------------------|-----------------|
-| <a href="https://github.com/mahadi609im/hero-apps-io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=hero-apps-io&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Customer-support-zone-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Customer-support-zone-react&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Payoo-MFS-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Payoo-MFS-project&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> |
-
-| B12 A5 Emergency Hotline | Green Earth React | Gadget-Heaven|
-|-------------------------|-----------------|---|
-| <a href="https://github.com/mahadi609im/B12-A5-Emergency-Hotline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=B12-A5-Emergency-Hotline&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Green-Earth-React"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Green-Earth-React&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> | <a href="https://github.com/mahadi609im/Gadget-Heaven"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi609im&repo=Gadget-Heaven&theme=dark&border_color=8A2BE2&bg_color=1A001A" /></a> |
- 
----
 
 <!--- github stats --->
 ## 📊 GitHub Stats
