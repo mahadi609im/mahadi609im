@@ -67,15 +67,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahadi609im&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://streak-stats.demolab.com?user=mahadi609im&theme=tokyonight&hide_border=true" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi609im&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
 
 <br/>
 
